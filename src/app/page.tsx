@@ -66,7 +66,7 @@ export default async function HomePage() {
                 </div>
               </div>
               <Image
-                src="/h1.jpeg"
+                src=""
                 width={550}
                 height={550}
                 alt="Hero Image"
